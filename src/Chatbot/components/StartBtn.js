@@ -7,7 +7,7 @@ const StartBtn = (props) => {
 
   return (
     <div>
-      <button className='start-btn' onClick={startInteraction}>Start Autism Prediction</button>
+      <button className='start-btn' onClick={startInteraction}>Start the Chat !</button>
     </div>
   );
 };

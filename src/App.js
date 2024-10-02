@@ -14,7 +14,7 @@ function App() {
         config={config}
         messageParser={MessageParser}
         actionProvider={ActionProvider}
-        headerText="Autism Detector"
+        headerText="Talk with Curator"
       />
     </div>
   );
